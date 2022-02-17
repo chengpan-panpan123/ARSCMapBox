@@ -1,0 +1,30 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+        "type": "Feature",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [121.487899486, 31.24916171],
+                [121.50, 31.25]
+            ]
+        },
+        "properties":{
+            "name1":"kkk过滤机",
+            "name2":"aaa的观点"
+        }
+    },{
+        "type": "Feature",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [121.497899486, 31.24916171],
+                [121.502, 31.25]
+            ]
+        },
+        "properties":{
+            "name1":"kkk是大额非",
+            "name2":"aaa我跟他换"
+        }
+    }]
+}
